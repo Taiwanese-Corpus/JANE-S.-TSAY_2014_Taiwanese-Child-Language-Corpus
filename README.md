@@ -2,5 +2,6 @@
 蔡素娟 台灣閩南語兒童語料庫
 
 ```
-pip install BeautifulSoup4
+pip install BeautifulSoup4 lxml
 ```
+
