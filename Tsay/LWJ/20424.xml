@@ -1,0 +1,3434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="20424" corpus="Tsay" version="PB1.2">
+    <header>
+        <date>1998-02-04</date>
+        <language>nan zho</language>
+        <media>20424.wav</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>LWJ</name>
+            <sex>female</sex>
+            <age>P2Y4M24DT0H0M0S</age>
+            <language>nan</language>
+        </participant>
+        <participant id="INV">
+            <role>Investigator</role>
+            <name>Joyce</name>
+            <language>nan</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>nan</language>
+        </participant>
+        <participant id="SIS">
+            <role>Sister</role>
+            <language>nan</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="ort" grouped="false"/>
+        <userTier tierName="cod" grouped="false"/>
+        <userTier tierName="pho" grouped="false"/>
+        <userTier tierName="ton" grouped="false"/>
+        <userTier tierName="explanation" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="ort" visible="true" locked="false" font="default"/>
+        <tier tierName="cod" visible="true" locked="false" font="default"/>
+        <tier tierName="pho" visible="true" locked="false" font="default"/>
+        <tier tierName="ton" visible="true" locked="false" font="default"/>
+        <tier tierName="explanation" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00045484-1</comment>
+        <comment type="Transcriber">Rose, Kay, Joyce</comment>
+        <comment type="Date">04-FEB-1998</comment>
+        <comment type="TapeLocation">Jun D2-54-59</comment>
+        <comment type="Generic">Time duration is 60 minutes</comment>
+        <comment type="Location">Chiayi, Taiwan</comment>
+        <comment type="Transcriber">Joyce</comment>
+        <comment type="Generic">Track number is D2-54</comment>
+        <u speaker="INV" id="11863b41-d61f-4448-aa60-2546be3a311b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">玟君@s,</com>
+                    <com type="blob">你</com>
+                    <com type="blob">過年</com>
+                    <com type="blob">去</com>
+                    <com type="blob">佗</com>
+                    <com type="blob">耍?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="1776.0" duration="1388.0" unitType="ms"/>
+            <flatTier tierName="ort">wen2jun1@s, li2 kue3ni5 khi3 toh4 sng2?</flatTier>
+            <flatTier tierName="cod">Nb Nh VA VCL Ncd VC</flatTier>
+        </u>
+        <u speaker="CHI" id="1eb88b4d-d59a-4eea-b67e-21ddd1fd84fb" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">毋</com>
+                    <com type="blob">知.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="4176.0" duration="662.0" unitType="ms"/>
+            <flatTier tierName="ort">m7 cai1.</flatTier>
+            <flatTier tierName="ton">22 55</flatTier>
+            <flatTier tierName="pho">m̩ tai</flatTier>
+            <flatTier tierName="cod">D VK</flatTier>
+        </u>
+        <u speaker="MOT" id="bf39aa73-d817-4a77-97f2-1de4e63da296" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">毋</com>
+                    <com type="blob">知.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="4913.0" duration="581.0" unitType="ms"/>
+            <flatTier tierName="ort">m7 cai1.</flatTier>
+            <flatTier tierName="cod">D VK</flatTier>
+        </u>
+        <u speaker="MOT" id="05fe7e43-55de-4496-82c6-2a879c109610" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">去</com>
+                    <com type="blob">海口</com>
+                    <com type="blob">媽1</com>
+                    <com type="blob">遐1</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="5464.0" duration="1625.0" unitType="ms"/>
+            <flatTier tierName="ort">khi3 hai2khau2 ma2 hia1 la0.</flatTier>
+            <flatTier tierName="cod">VCL Nc Na Ncd T</flatTier>
+        </u>
+        <u speaker="CHI" id="f8038460-c4c7-4194-87b0-3a10751f1465" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">海口</com>
+                    <com type="blob">媽1</com>
+                    <com type="blob">遐1.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="7619.0" duration="1573.0" unitType="ms"/>
+            <flatTier tierName="ort">hai2khau2 ma2 hia1.</flatTier>
+            <flatTier tierName="ton">44 55 53 33</flatTier>
+            <flatTier tierName="pho">hɑ̄ k'au mã hia</flatTier>
+            <flatTier tierName="cod">Nc Na Ncd</flatTier>
+        </u>
+        <u speaker="INV" id="598ed3df-4ac3-4593-a819-e56840d34925" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">去</com>
+                    <com type="blob">海口</com>
+                    <com type="blob">媽1</com>
+                    <com type="blob">遐1</com>
+                    <com type="blob">創</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="9224.0" duration="1446.0" unitType="ms"/>
+            <flatTier tierName="ort">khi3 hai2khau2 ma2 hia1 chong3 sann2?</flatTier>
+            <flatTier tierName="cod">VCL Nc Na Ncd VC Nh</flatTier>
+        </u>
+        <u speaker="CHI" id="e5cb10ee-bc76-4ded-b861-a5dfd923fda8" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">m0,</com>
+                    <com type="blob">毋</com>
+                    <com type="blob">知.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="11733.0" duration="1120.0" unitType="ms"/>
+            <flatTier tierName="ort">m0, m7 cai1.</flatTier>
+            <flatTier tierName="ton">2222 22 55</flatTier>
+            <flatTier tierName="pho">ə̃ kuə ke</flatTier>
+            <flatTier tierName="cod">I D VK</flatTier>
+        </u>
+        <u speaker="INV" id="9c5b1887-738c-48d9-93f1-87dba2bdd272" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">hann0?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="12847.0" duration="337.0" unitType="ms"/>
+            <flatTier tierName="ort">hannh0?</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="CHI" id="56ef8044-6cfe-411a-bf7d-57673811c17b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">yyy.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="13318.0" duration="725.0" unitType="ms"/>
+            <flatTier tierName="ort">yyy.</flatTier>
+            <flatTier tierName="ton">???</flatTier>
+            <flatTier tierName="pho">???</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="SIS" id="0b6b9c50-5173-4ed0-8b6c-40638089d68a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">海口</com>
+                    <com type="blob">媽1</com>
+                    <com type="blob">遐1</com>
+                    <com type="blob">hoonn0</com>
+                    <com type="blob">+...</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="13791.0" duration="2136.0" unitType="ms"/>
+            <flatTier tierName="ort">hai2khau2 ma2 hia1 hoonn0 +...</flatTier>
+            <flatTier tierName="cod">Nc Na Ncd T</flatTier>
+        </u>
+        <u speaker="SIS" id="f792f199-db15-40c8-abc4-947a8b758a66" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">chit4tho5</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="15859.0" duration="1097.0" unitType="ms"/>
+            <flatTier tierName="ort">chit4tho5 la0.</flatTier>
+            <flatTier tierName="cod">VA T</flatTier>
+        </u>
+        <u speaker="CHI" id="4e1e0f2f-d3b8-44c9-b3fc-f914ce5f126a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">chit4tho5.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="17496.0" duration="1289.0" unitType="ms"/>
+            <flatTier tierName="ort">chit4tho5.</flatTier>
+            <flatTier tierName="ton">44 24</flatTier>
+            <flatTier tierName="pho">it t'ə</flatTier>
+            <flatTier tierName="cod">VA</flatTier>
+        </u>
+        <u speaker="INV" id="19c1830c-d1ff-4afe-a318-2a90bbc484d5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">chit4tho5</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="18756.0" duration="1045.0" unitType="ms"/>
+            <flatTier tierName="ort">chit4tho5 oo0.</flatTier>
+            <flatTier tierName="cod">VA T</flatTier>
+        </u>
+        <u speaker="MOT" id="32dadf56-7626-4a02-8699-b6f37bf7da0b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">迫起來</com>
+                    <com type="blob">[&gt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="19729.0" duration="407.0" unitType="ms"/>
+            <flatTier tierName="ort">peh4khi2lai5 [&gt;].</flatTier>
+            <flatTier tierName="cod">VA</flatTier>
+        </u>
+        <u speaker="CHI" id="f0ef32fd-ea2c-438b-b8e7-380d4000db25" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">yyy</com>
+                    <com type="blob">[&lt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="20530.0" duration="2479.0" unitType="ms"/>
+            <flatTier tierName="ort">yyy [&lt;].</flatTier>
+            <flatTier tierName="ton">???</flatTier>
+            <flatTier tierName="pho">???</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="MOT" id="608d5abf-176a-4269-9d1e-192cdd22a5d4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">坐好@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="20531.0" duration="168.0" unitType="ms"/>
+            <flatTier tierName="ort">zuo4hao3@s.</flatTier>
+            <flatTier tierName="cod">VA</flatTier>
+        </u>
+        <u speaker="INV" id="7b478c00-a86a-46df-876a-31bdb3f3c512" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">hann0?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="20532.0" duration="485.0" unitType="ms"/>
+            <flatTier tierName="ort">hann0?</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="INV" id="0641dc19-370b-4c3b-955c-cbf561f6565d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">a01</com>
+                    <com type="blob">你</com>
+                    <com type="blob">過年</com>
+                    <com type="blob">有</com>
+                    <com type="blob">食</com>
+                    <com type="blob">啥物</com>
+                    <com type="blob">物件?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="22897.0" duration="2340.0" unitType="ms"/>
+            <flatTier tierName="ort">a0 li2 kue3ni5 u7 ciah8 siann2mih8 mih8kiann7?</flatTier>
+            <flatTier tierName="cod">Dk Nh VA V_2 VC Nep Na</flatTier>
+        </u>
+        <u speaker="CHI" id="1b4905a6-7642-4c6c-b11d-4addbfd0ba62" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">物件.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="25675.0" duration="958.0" unitType="ms"/>
+            <flatTier tierName="ort">mih8kiann7.</flatTier>
+            <flatTier tierName="ton">22 33</flatTier>
+            <flatTier tierName="pho">mĩ kiã</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="SIS" id="28ba0806-ea84-40ca-91c5-db9d514f8575" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">有</com>
+                    <com type="blob">食</com>
+                    <com type="blob">甜</com>
+                    <com type="blob">+/.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="27123.0" duration="1416.0" unitType="ms"/>
+            <flatTier tierName="ort">u7 ciah8 tinn1 +/.</flatTier>
+            <flatTier tierName="cod">V_2 VC VH</flatTier>
+        </u>
+        <u speaker="INV" id="46e92009-96b6-4517-b3d0-05a131b798db" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">你</com>
+                    <com type="blob">莫</com>
+                    <com type="blob">掩</com>
+                    <com type="blob">le01</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="28075.0" duration="1265.0" unitType="ms"/>
+            <flatTier tierName="ort">li2 mai3 am1 le0 la0.</flatTier>
+            <flatTier tierName="cod">Nh D VC Di/T T</flatTier>
+        </u>
+        <u speaker="SIS" id="1659bb30-be17-4c51-87e8-5cba7783122a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">有</com>
+                    <com type="blob">食</com>
+                    <com type="blob">甜粿</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="28812.0" duration="1811.0" unitType="ms"/>
+            <flatTier tierName="ort">u7 ciah8 tinn1kue2 la0.</flatTier>
+            <flatTier tierName="cod">V_2 VC Na T</flatTier>
+        </u>
+        <u speaker="INV" id="36c5b543-47bc-4313-82f6-ce50bd16e1d9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">有</com>
+                    <com type="blob">食</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="31300.0" duration="697.0" unitType="ms"/>
+            <flatTier tierName="ort">u7 ciah8 sann2?</flatTier>
+            <flatTier tierName="cod">V_2 VC Nh</flatTier>
+        </u>
+        <u speaker="CHI" id="6fe2d25f-9893-4211-86e5-15f237712ed3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">食</com>
+                    <com type="blob">甜粿.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="33191.0" duration="1207.0" unitType="ms"/>
+            <flatTier tierName="ort">ciah8 tinn1kue2.</flatTier>
+            <flatTier tierName="ton">33 33 53</flatTier>
+            <flatTier tierName="pho">tia ʔit kue</flatTier>
+            <flatTier tierName="cod">VC Na</flatTier>
+        </u>
+        <u speaker="INV" id="286f169b-4e31-4f6b-8e27-b43d6c38dfb5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">甜粿</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="34491.0" duration="1016.0" unitType="ms"/>
+            <flatTier tierName="ort">tinn1kue2 oo0.</flatTier>
+            <flatTier tierName="cod">Na T</flatTier>
+        </u>
+        <u speaker="INV" id="e3aeb1e7-a0fa-49a1-a839-3d933cc136d5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">誰</com>
+                    <com type="blob">+/.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="35397.0" duration="348.0" unitType="ms"/>
+            <flatTier tierName="ort">sang9 +/.</flatTier>
+            <flatTier tierName="cod">Nh</flatTier>
+        </u>
+        <u speaker="MOT" id="2f389b68-f726-4d60-ad52-d56f06105785" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">閣</com>
+                    <com type="blob">火鍋.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="35398.0" duration="864.0" unitType="ms"/>
+            <flatTier tierName="ort">koh4 hue2ko1.</flatTier>
+            <flatTier tierName="cod">D Na</flatTier>
+        </u>
+        <u speaker="CHI" id="6979026c-72f8-4723-8f98-8ed847d877c5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">火鍋.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="36448.0" duration="963.0" unitType="ms"/>
+            <flatTier tierName="ort">hue2ko1.</flatTier>
+            <flatTier tierName="ton">55 55</flatTier>
+            <flatTier tierName="pho">kə kə</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="INV" id="ddb6dd8a-0928-4365-83d3-2d3f97b63424" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">火鍋</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="37547.0" duration="1173.0" unitType="ms"/>
+            <flatTier tierName="ort">hue2ko1 oo0.</flatTier>
+            <flatTier tierName="cod">Na T</flatTier>
+        </u>
+        <u speaker="INV" id="93ad80b5-722c-4d2d-bd87-19be9d74bec9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">誰</com>
+                    <com type="blob">煮</com>
+                    <com type="blob">e0?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="38702.0" duration="801.0" unitType="ms"/>
+            <flatTier tierName="ort">sang9 cu2 e0?</flatTier>
+            <flatTier tierName="cod">Nh VC DE</flatTier>
+        </u>
+        <u speaker="CHI" id="f6393d87-c16f-4edd-9b73-b0f56fe239c4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">&lt;煮</com>
+                    <com type="blob">e0&gt;</com>
+                    <com type="blob">[&gt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="40003.0" duration="755.0" unitType="ms"/>
+            <flatTier tierName="ort">&lt;cu2 e0&gt; [&gt;].</flatTier>
+            <flatTier tierName="ton">53 22</flatTier>
+            <flatTier tierName="pho">tu e</flatTier>
+            <flatTier tierName="cod">VC DE</flatTier>
+        </u>
+        <u speaker="SIS" id="30d80c7e-0323-4f03-bbde-aa09b9a5a266" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">媽媽</com>
+                    <com type="blob">[&lt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="40004.0" duration="1143.0" unitType="ms"/>
+            <flatTier tierName="ort">ma9ma9 [&lt;].</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <comment type="Generic">Track number is D2-55</comment>
+        <u speaker="INV" id="c8989542-f2b0-4071-a7a7-7149566c0bfc" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">a01</com>
+                    <com type="blob">你</com>
+                    <com type="blob">欲</com>
+                    <com type="blob">提</com>
+                    <com type="blob">啥物</com>
+                    <com type="blob">予2</com>
+                    <com type="blob">阿姨</com>
+                    <com type="blob">看?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="40734.0" duration="1172.0" unitType="ms"/>
+            <flatTier tierName="ort">a0 li2 beh4 theh8 siann2mih8 hoo7 a1i5 khuann3?</flatTier>
+            <flatTier tierName="cod">Dk Nh D VC Nep VK Na VC</flatTier>
+        </u>
+        <u speaker="CHI" id="c197a8aa-9b29-4aa7-989a-a195f121a411" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">生日@s</com>
+                    <com type="blob">快樂@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="42678.0" duration="1103.0" unitType="ms"/>
+            <flatTier tierName="ort">sheng1ri4@s kuai4le4@s.</flatTier>
+            <flatTier tierName="ton">44 43 43 33</flatTier>
+            <flatTier tierName="pho">təŋ li kai lɔə</flatTier>
+            <flatTier tierName="cod">Na VH</flatTier>
+        </u>
+        <u speaker="MOT" id="3d79d583-7ae7-4aa4-9f85-4f0ace45b01d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">生日@s</com>
+                    <com type="blob">快樂@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="43962.0" duration="1010.0" unitType="ms"/>
+            <flatTier tierName="ort">sheng1ri4@s kuai4le4@s.</flatTier>
+            <flatTier tierName="cod">Na VH</flatTier>
+        </u>
+        <u speaker="INV" id="547bcfcd-9c13-4e7c-8e22-46bf21b2e8f9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">oo0,</com>
+                    <com type="blob">生日@s</com>
+                    <com type="blob">快樂@s</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="44427.0" duration="1207.0" unitType="ms"/>
+            <flatTier tierName="ort">oo0, sheng1ri4@s kuai4le4@s oo0.</flatTier>
+            <flatTier tierName="cod">I Na VH T</flatTier>
+        </u>
+        <u speaker="INV" id="ace6ab83-a4af-44a8-8eaa-8dacc1f7efb5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">你</com>
+                    <com type="blob">無1</com>
+                    <com type="blob">共</com>
+                    <com type="blob">阿姨</com>
+                    <com type="blob">講</com>
+                    <com type="blob">新年@s</com>
+                    <com type="blob">快樂@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="45846.0" duration="1735.0" unitType="ms"/>
+            <flatTier tierName="ort">li2 bo5 ka7 a1i5 kong2 xin1nian2@s kuai4le4@s.</flatTier>
+            <flatTier tierName="cod">Nh D P Na VE Na VH</flatTier>
+        </u>
+        <u speaker="CHI" id="4b5c2c1f-086e-4155-aac2-85530ad88edd" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">阿姨,</com>
+                    <com type="blob">新年@s</com>
+                    <com type="blob">快樂@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="47789.0" duration="2380.0" unitType="ms"/>
+            <flatTier tierName="ort">a1i5, xin1nian2@s kuai4le4@s.</flatTier>
+            <flatTier tierName="ton">33 55 55 35 53 53</flatTier>
+            <flatTier tierName="pho">ə̃ ĩ tin nĩã kuai lə</flatTier>
+            <flatTier tierName="cod">Na Na VH</flatTier>
+        </u>
+        <u speaker="SIS" id="bba63eb2-0e4a-4685-8a49-037448d2ea02" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">xxx</com>
+                    <com type="blob">[&gt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="50176.0" duration="1138.0" unitType="ms"/>
+            <flatTier tierName="ort">xxx [&gt;].</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="MOT" id="fd859498-18e0-4c43-8124-9198db44dbe4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">&lt;</com>
+                    <com type="blob">恭喜@s</com>
+                    <com type="blob">發財@s&gt;</com>
+                    <com type="blob">[&lt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="50184.0" duration="1573.0" unitType="ms"/>
+            <flatTier tierName="ort">&lt;gong1xi3@s fa1cai2@s&gt; [&lt;].</flatTier>
+            <flatTier tierName="cod">VJ VH</flatTier>
+        </u>
+        <u speaker="MOT" id="60160f89-a991-499c-8ce4-9b83e41e8de0" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">你</com>
+                    <com type="blob">講</com>
+                    <com type="blob">恭喜@s</com>
+                    <com type="blob">發財@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="52004.0" duration="1301.0" unitType="ms"/>
+            <flatTier tierName="ort">li2 kong2 gong1xi3@s fa1cai2@s.</flatTier>
+            <flatTier tierName="cod">Nh VE VJ VH</flatTier>
+        </u>
+        <u speaker="CHI" id="aa6be602-a8a7-4611-9d92-ce11737cdbb0" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">恭喜@s</com>
+                    <com type="blob">發財@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="53626.0" duration="1927.0" unitType="ms"/>
+            <flatTier tierName="ort">gong1xi3@s fa1cai2@s.</flatTier>
+            <flatTier tierName="ton">55 33 55 13</flatTier>
+            <flatTier tierName="pho">tɔ tia hua t'ai</flatTier>
+            <flatTier tierName="cod">VJ VH</flatTier>
+        </u>
+        <u speaker="INV" id="11ae8a2e-fab9-4548-9544-dbbcadc9ff63" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">a01</com>
+                    <com type="blob">過來.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="56478.0" duration="482.0" unitType="ms"/>
+            <flatTier tierName="ort">a0 kue3lai5.</flatTier>
+            <flatTier tierName="cod">Dk VA</flatTier>
+        </u>
+        <u speaker="SIS" id="787bdaab-a7a0-4112-ba29-f025d2253062" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">好@s</com>
+                    <com type="blob">運@s</com>
+                    <com type="blob">跟@s</com>
+                    <com type="blob">著@s</com>
+                    <com type="blob">來@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="57228.0" duration="1852.0" unitType="ms"/>
+            <flatTier tierName="ort">hao3@s yun4@s gen1@s zhe0@s lai2@s.</flatTier>
+            <flatTier tierName="cod">VH Na VC Di VA</flatTier>
+        </u>
+        <u speaker="CHI" id="733539cc-7b3b-4599-98c4-24d474eff26a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">好@s</com>
+                    <com type="blob">運@s</com>
+                    <com type="blob">跟@s</com>
+                    <com type="blob">著@s</com>
+                    <com type="blob">來@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="59080.0" duration="1341.0" unitType="ms"/>
+            <flatTier tierName="ort">hao3@s yun4@s gen1@s zhe0@s lai2@s.</flatTier>
+            <flatTier tierName="ton">33 44 55 3 13</flatTier>
+            <flatTier tierName="pho">ha ?? ?? ?? ??</flatTier>
+            <flatTier tierName="cod">VH Na VC Di VA</flatTier>
+        </u>
+        <u speaker="INV" id="43db94e1-4cde-4e03-b3d3-883d6e45b97a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">www.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="62212.0" duration="436.0" unitType="ms"/>
+            <flatTier tierName="ort">www.</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+            <flatTier tierName="explanation">laughing</flatTier>
+        </u>
+        <u speaker="INV" id="8dcf6085-4f9f-40a0-8bce-8b9313833656" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">這1</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="62620.0" duration="470.0" unitType="ms"/>
+            <flatTier tierName="ort">ce1 sann2?</flatTier>
+            <flatTier tierName="cod">Nep Nh</flatTier>
+        </u>
+        <comment type="Generic">Track number is D2-56</comment>
+        <u speaker="INV" id="92415d69-f549-4b83-8a87-95628a3a6153" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">阿公</com>
+                    <com type="blob">去</com>
+                    <com type="blob">佗?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="63293.0" duration="697.0" unitType="ms"/>
+            <flatTier tierName="ort">a1kong1 khi3 toh4?</flatTier>
+            <flatTier tierName="cod">Na VCL Ncd</flatTier>
+        </u>
+        <u speaker="MOT" id="6f2b363e-2ede-4e34-832a-e4dff3f92e3f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">xxx.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="65472.0" duration="1039.0" unitType="ms"/>
+            <flatTier tierName="ort">xxx.</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="CHI" id="9f9c1954-0d38-404a-a910-3165cc6730e2" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">阿公</com>
+                    <com type="blob">去</com>
+                    <com type="blob">割</com>
+                    <com type="blob">筍仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="65473.0" duration="1695.0" unitType="ms"/>
+            <flatTier tierName="ort">a1kong1 khi3 kuah4 sun2a2.</flatTier>
+            <flatTier tierName="ton">33 55 55 53 33 53</flatTier>
+            <flatTier tierName="pho">a kɔŋ k'i kua k'e a</flatTier>
+            <flatTier tierName="cod">Na D VC Na</flatTier>
+        </u>
+        <u speaker="MOT" id="8bda1b41-5273-416a-bb75-17c5f51346f3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">閣</com>
+                    <com type="blob">定定</com>
+                    <com type="blob">去</com>
+                    <com type="blob">割</com>
+                    <com type="blob">筍仔</com>
+                    <com type="blob">[=!</com>
+                    <com type="blob">laughing].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="66813.0" duration="1387.0" unitType="ms"/>
+            <flatTier tierName="ort">koh4 tiann7tiann7 khi3 kuah4 sun2a2 [=! laughing].</flatTier>
+            <flatTier tierName="cod">D D D VC Na</flatTier>
+        </u>
+        <u speaker="INV" id="9e75453e-398b-4fdd-b659-ccb4040feb41" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">割</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="68584.0" duration="435.0" unitType="ms"/>
+            <flatTier tierName="ort">kuah4 sann2?</flatTier>
+            <flatTier tierName="cod">VC Nh</flatTier>
+        </u>
+        <u speaker="MOT" id="5a771c87-ed9a-4467-a25d-934510d0bbf3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">割</com>
+                    <com type="blob">筍仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="69464.0" duration="1202.0" unitType="ms"/>
+            <flatTier tierName="ort">kuah4 sun2a2.</flatTier>
+            <flatTier tierName="cod">VC Na</flatTier>
+        </u>
+        <u speaker="CHI" id="4b96ff1f-007c-416e-a751-5185735e41c4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">割</com>
+                    <com type="blob">筍仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="69760.0" duration="1718.0" unitType="ms"/>
+            <flatTier tierName="ort">kuah4 sun2a2.</flatTier>
+            <flatTier tierName="ton">53 55 53</flatTier>
+            <flatTier tierName="pho">kua tuŋ ŋã</flatTier>
+            <flatTier tierName="cod">VC Na</flatTier>
+        </u>
+        <u speaker="INV" id="60fcf204-8fdc-4783-8d22-da03c663ae80" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">筍仔</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="71688.0" duration="836.0" unitType="ms"/>
+            <flatTier tierName="ort">sun2a2 oo0.</flatTier>
+            <flatTier tierName="cod">Na T</flatTier>
+        </u>
+        <u speaker="CHI" id="114dfe11-0051-40f9-a5cd-771bfdb7c4f5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">yyy.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="71726.0" duration="650.0" unitType="ms"/>
+            <flatTier tierName="ort">yyy.</flatTier>
+            <flatTier tierName="ton">???</flatTier>
+            <flatTier tierName="pho">???</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="INV" id="32323b58-191a-41f9-94c7-dbaf95af2a7a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">a01</com>
+                    <com type="blob">阿媽</com>
+                    <com type="blob">le02?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="72924.0" duration="639.0" unitType="ms"/>
+            <flatTier tierName="ort">a0 a1ma2 le0?</flatTier>
+            <flatTier tierName="cod">Dk Na T</flatTier>
+        </u>
+        <u speaker="CHI" id="1ad108de-8c1a-4bea-ba2b-60395363ee17" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">阿媽</com>
+                    <com type="blob">割</com>
+                    <com type="blob">筍仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="73865.0" duration="2356.0" unitType="ms"/>
+            <flatTier tierName="ort">a1ma2 kuah4 sun2a2.</flatTier>
+            <flatTier tierName="ton">33 53 53 33 53</flatTier>
+            <flatTier tierName="pho">a mã kua tuŋ ŋã</flatTier>
+            <flatTier tierName="cod">Na VC Na</flatTier>
+        </u>
+        <u speaker="SIS" id="21577050-7325-42f0-b2a9-71187f767801" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">拾</com>
+                    <com type="blob">筍仔</com>
+                    <com type="blob">la0,</com>
+                    <com type="blob">割</com>
+                    <com type="blob">筍仔</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="76448.0" duration="1782.0" unitType="ms"/>
+            <flatTier tierName="ort">khioh4 sun2a2 la0, kuah4 sun2a2 la0.</flatTier>
+            <flatTier tierName="cod">VC Na T VC Na T</flatTier>
+        </u>
+        <u speaker="MOT" id="25f80023-a430-4b41-9d05-7c5c29b91b94" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">xxx.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="77487.0" duration="760.0" unitType="ms"/>
+            <flatTier tierName="ort">xxx.</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="MOT" id="8ff3168c-6780-4c9e-979d-f54a2f0a48e2" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">你</com>
+                    <com type="blob">叫</com>
+                    <com type="blob">湘湘@s</com>
+                    <com type="blob">食飽</com>
+                    <com type="blob">入來.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="ort">li2 kio3 xiang1xiang1@s ciah8pa2 jip8lai5.</flatTier>
+            <flatTier tierName="cod">Nh VF Nb VH VA</flatTier>
+        </u>
+        <u speaker="MOT" id="0e18fa85-8081-46ab-a033-98d547201072" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">講</com>
+                    <com type="blob">姊姊</com>
+                    <com type="blob">食飽</com>
+                    <com type="blob">入來.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="81401.0" duration="1242.0" unitType="ms"/>
+            <flatTier tierName="ort">kong2 ce9ce9 ciah8pa2 jip8lai5.</flatTier>
+            <flatTier tierName="cod">VE Na VH VA</flatTier>
+        </u>
+        <u speaker="CHI" id="209731ae-fe96-4cfa-9eca-13b3f0cc5854" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">姊姊</com>
+                    <com type="blob">食飽</com>
+                    <com type="blob">入來.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="83276.0" duration="1910.0" unitType="ms"/>
+            <flatTier tierName="ort">ce9ce9 ciah8pa2 jip8lai5.</flatTier>
+            <flatTier tierName="ton">33 44 33 53 33 22</flatTier>
+            <flatTier tierName="pho">te te tia pa li ai</flatTier>
+            <flatTier tierName="cod">Na VH VA</flatTier>
+        </u>
+        <comment type="Generic">Track number is D2-57</comment>
+        <u speaker="INV" id="3bdaaca9-59e6-499a-bd91-1b357378094a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">來,</com>
+                    <com type="blob">我</com>
+                    <com type="blob">問</com>
+                    <com type="blob">你.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="86306.0" duration="679.0" unitType="ms"/>
+            <flatTier tierName="ort">lai5, gua2 mng7 li2.</flatTier>
+            <flatTier tierName="cod">VA Nh VE Nh</flatTier>
+        </u>
+        <u speaker="INV" id="bb20173d-e82f-497a-8b64-541ba2f14dbd" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">這1</com>
+                    <com type="blob">啥物?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="86869.0" duration="465.0" unitType="ms"/>
+            <flatTier tierName="ort">ce1 sann2mih8?</flatTier>
+            <flatTier tierName="cod">Nep Nep</flatTier>
+        </u>
+        <u speaker="SIS" id="b543de44-bd9f-4153-a46e-a815a7cc5b28" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">牛.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="87889.0" duration="488.0" unitType="ms"/>
+            <flatTier tierName="ort">gu5.</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="CHI" id="b9cd7feb-95a3-42ab-ab6d-e440a3d1799c" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">牛</com>
+                    <com type="blob">[&gt;].</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="88715.0" duration="592.0" unitType="ms"/>
+            <flatTier tierName="ort">gu5 [&gt;].</flatTier>
+            <flatTier tierName="ton">24</flatTier>
+            <flatTier tierName="pho">gu</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="INV" id="007308aa-eb13-49c0-b9fd-5dbe8f7a8934" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">&lt;a01</com>
+                    <com type="blob">這1</com>
+                    <com type="blob">le02&gt;</com>
+                    <com type="blob">[&lt;]?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="88716.0" duration="637.0" unitType="ms"/>
+            <flatTier tierName="ort">&lt;a0 ce1 le0&gt; [&lt;]?</flatTier>
+            <flatTier tierName="cod">Dk Nep T</flatTier>
+        </u>
+        <u speaker="INV" id="414c4607-d743-4f24-93ef-3556f95b43e9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">這1</com>
+                    <com type="blob">啥物?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="90271.0" duration="859.0" unitType="ms"/>
+            <flatTier tierName="ort">ce1 sann2mih8?</flatTier>
+            <flatTier tierName="cod">Nep Nep</flatTier>
+        </u>
+        <u speaker="CHI" id="e5a73fc3-3d22-4a24-9c50-7b134f2d0866" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">牛.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="90474.0" duration="644.0" unitType="ms"/>
+            <flatTier tierName="ort">gu5.</flatTier>
+            <flatTier tierName="ton">24</flatTier>
+            <flatTier tierName="pho">gu</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="INV" id="fa88b24f-442b-4f68-b5d0-5f43dee13606" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">a01</com>
+                    <com type="blob">這1</com>
+                    <com type="blob">啥物?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="91194.0" duration="511.0" unitType="ms"/>
+            <flatTier tierName="ort">a0 ce1 sann2mih8?</flatTier>
+            <flatTier tierName="cod">Dk Nep Nep</flatTier>
+        </u>
+        <u speaker="INV" id="39789fb3-45fd-426a-920d-b8352e00ac41" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">伊</com>
+                    <com type="blob">e0</com>
+                    <com type="blob">啥物?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="91699.0" duration="534.0" unitType="ms"/>
+            <flatTier tierName="ort">i1 e0 sann2mih8?</flatTier>
+            <flatTier tierName="cod">Nh DE Nep</flatTier>
+        </u>
+        <u speaker="CHI" id="6e819da1-17a3-4f0f-8fbd-3b470e981f58" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">伊</com>
+                    <com type="blob">e0</com>
+                    <com type="blob">牛.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="ort">i1 e0 gu5.</flatTier>
+            <flatTier tierName="ton">22 33 24</flatTier>
+            <flatTier tierName="pho">i e bu</flatTier>
+            <flatTier tierName="cod">Nh DE Na</flatTier>
+        </u>
+        <u speaker="INV" id="7f0c101e-4ab0-4a5b-a10c-3216f90653d3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">oo0,</com>
+                    <com type="blob">這1</com>
+                    <com type="blob">啥物,</com>
+                    <com type="blob">湘雲@s?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="95402.0" duration="993.0" unitType="ms"/>
+            <flatTier tierName="ort">oo0, ce1 sann2mih8, xiang1yun2@s?</flatTier>
+            <flatTier tierName="cod">I Nep Nep Nb</flatTier>
+        </u>
+        <u speaker="INV" id="c424c28f-08e7-4058-9384-829c8256cd1b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">這1.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="97022.0" duration="401.0" unitType="ms"/>
+            <flatTier tierName="ort">ce1.</flatTier>
+            <flatTier tierName="cod">Nep</flatTier>
+        </u>
+        <u speaker="CHI" id="e8705045-89b7-47da-ad96-e6869b1ee3f6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">彼1</com>
+                    <com type="blob">咖啡@s.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="97709.0" duration="1167.0" unitType="ms"/>
+            <flatTier tierName="ort">he1 ka1fei1@s.</flatTier>
+            <flatTier tierName="ton">55 5 55</flatTier>
+            <flatTier tierName="pho">he tap pie</flatTier>
+            <flatTier tierName="cod">Nep Na</flatTier>
+        </u>
+        <u speaker="MOT" id="0550d5f5-3d44-4a48-b5af-6ca668bfbce8" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">咖啡@s</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="98946.0" duration="1132.0" unitType="ms"/>
+            <flatTier tierName="ort">ka1fei1@s la0.</flatTier>
+            <flatTier tierName="cod">Na T</flatTier>
+        </u>
+        <u speaker="INV" id="259198d2-d200-493f-98f0-79bfc9de90ec" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">oo0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="99321.0" duration="737.0" unitType="ms"/>
+            <flatTier tierName="ort">oo0.</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="INV" id="070424cd-9175-4f84-9a3c-7ee17842ba8e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">這1</com>
+                    <com type="blob">le02?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="100058.0" duration="400.0" unitType="ms"/>
+            <flatTier tierName="ort">ce1 le0?</flatTier>
+            <flatTier tierName="cod">Nep T</flatTier>
+        </u>
+        <u speaker="CHI" id="56044b1a-0c2e-4895-92ac-d40815e6e506" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">彼1.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="100769.0" duration="802.0" unitType="ms"/>
+            <flatTier tierName="ort">he1.</flatTier>
+            <flatTier tierName="ton">4444</flatTier>
+            <flatTier tierName="pho">he</flatTier>
+            <flatTier tierName="cod">Nep</flatTier>
+        </u>
+        <u speaker="SIS" id="f6af795d-afdf-4542-b562-6bbc90587bbe" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">盤仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="101698.0" duration="581.0" unitType="ms"/>
+            <flatTier tierName="ort">puann5a2.</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="CHI" id="37622109-9590-4aa7-a34c-a8e922bbb00b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">盤仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="102621.0" duration="558.0" unitType="ms"/>
+            <flatTier tierName="ort">puann5a2.</flatTier>
+            <flatTier tierName="ton">33 53</flatTier>
+            <flatTier tierName="pho">bũã ã</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="INV" id="2a9cb4f8-7026-4953-879c-151f92b96c47" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">phiat4仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="103172.0" duration="412.0" unitType="ms"/>
+            <flatTier tierName="ort">phiat4a2.</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="CHI" id="f3808d0c-2b6c-4273-8a4b-14bc091db7bf" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">phiat4仔.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="104075.0" duration="784.0" unitType="ms"/>
+            <flatTier tierName="ort">phiat4a2.</flatTier>
+            <flatTier tierName="ton">5 53</flatTier>
+            <flatTier tierName="pho">p'et la</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="MOT" id="9313ba75-5f72-42e0-ab05-7233d81ef31d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">你</com>
+                    <com type="blob">也</com>
+                    <com type="blob">講</com>
+                    <com type="blob">phiat4仔</com>
+                    <com type="blob">oo02?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="104574.0" duration="894.0" unitType="ms"/>
+            <flatTier tierName="ort">li2 a7 kong2 phiat4a2 oo0?</flatTier>
+            <flatTier tierName="cod">Nh D VE Na T</flatTier>
+        </u>
+        <u speaker="INV" id="0a23c23c-7528-488e-aeff-afb901f7a0be" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">henn0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="105497.0" duration="453.0" unitType="ms"/>
+            <flatTier tierName="ort">henn0.</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <comment type="Generic">Track number is D2-58</comment>
+        <u speaker="CHI" id="23aff250-9f5b-4282-87dc-736c4ada7d6e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">欲</com>
+                    <com type="blob">看</com>
+                    <com type="blob">肉粽.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="105869.0" duration="1875.0" unitType="ms"/>
+            <flatTier tierName="ort">beh4 khuann3 bah4cang3.</flatTier>
+            <flatTier tierName="ton">55 53 53 23</flatTier>
+            <flatTier tierName="pho">be kũã ba taŋ</flatTier>
+            <flatTier tierName="cod">D VE Na</flatTier>
+        </u>
+        <u speaker="INV" id="2cab73ed-60b0-488e-bc41-8795bbef0019" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">hann0?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="108757.0" duration="876.0" unitType="ms"/>
+            <flatTier tierName="ort">hann0?</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="INV" id="9171c8b9-0eee-4064-87d9-ab791aa961db" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">伊</com>
+                    <com type="blob">講</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="109742.0" duration="725.0" unitType="ms"/>
+            <flatTier tierName="ort">i1 kong2 sann2?</flatTier>
+            <flatTier tierName="cod">Nh VE Nh</flatTier>
+        </u>
+        <u speaker="INV" id="45412c87-4ccb-4a1e-8548-56a867374404" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">你</com>
+                    <com type="blob">講</com>
+                    <com type="blob">啥物</com>
+                    <com type="blob">a02?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="112440.0" duration="1225.0" unitType="ms"/>
+            <flatTier tierName="ort">li2 kong2 sann2mih8 a0?</flatTier>
+            <flatTier tierName="cod">Nh VE Nep T</flatTier>
+        </u>
+        <u speaker="SIS" id="9f9aacd8-3e52-49d8-860a-ba21614a5f14" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">欲</com>
+                    <com type="blob">看</com>
+                    <com type="blob">啥物?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="112714.0" duration="854.0" unitType="ms"/>
+            <flatTier tierName="ort">beh4 khuann3 siann2mih8?</flatTier>
+            <flatTier tierName="cod">D VE Nep</flatTier>
+        </u>
+        <u speaker="CHI" id="39418ea8-0189-4e62-9988-870d1f9ff81e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">欲</com>
+                    <com type="blob">看</com>
+                    <com type="blob">肉粽.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="114350.0" duration="1445.0" unitType="ms"/>
+            <flatTier tierName="ort">beh4 khuann3 bah4cang3.</flatTier>
+            <flatTier tierName="ton">55 53 53 22</flatTier>
+            <flatTier tierName="pho">be kũã ba taŋ</flatTier>
+            <flatTier tierName="cod">D VE Na</flatTier>
+        </u>
+        <u speaker="CHI" id="0e3a3c3e-df16-4fae-8cce-449a399cded8" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">肉粽.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="116296.0" duration="1428.0" unitType="ms"/>
+            <flatTier tierName="ort">bah4cang3.</flatTier>
+            <flatTier tierName="ton">43 43</flatTier>
+            <flatTier tierName="pho">ba taŋ</flatTier>
+            <flatTier tierName="cod">Na</flatTier>
+        </u>
+        <u speaker="INV" id="65cf57b5-8c13-444a-9153-bea88d5a7eec" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">henn0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="117765.0" duration="360.0" unitType="ms"/>
+            <flatTier tierName="ort">henn0.</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="INV" id="47764b61-7bd4-4d97-80bb-e55b05734c37" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">叫</com>
+                    <com type="blob">媽媽</com>
+                    <com type="blob">包,</com>
+                    <com type="blob">好</com>
+                    <com type="blob">無3?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="118909.0" duration="1190.0" unitType="ms"/>
+            <flatTier tierName="ort">kio3 ma9ma9 pau1, ho2 bo0?</flatTier>
+            <flatTier tierName="cod">VF Na VC VH T</flatTier>
+        </u>
+        <u speaker="INV" id="89ebc72b-6dcd-4cf0-a008-bb088bc6bfb8" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">叫</com>
+                    <com type="blob">媽媽</com>
+                    <com type="blob">包.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="120946.0" duration="1057.0" unitType="ms"/>
+            <flatTier tierName="ort">kio3 ma9ma9 pau1.</flatTier>
+            <flatTier tierName="cod">VF Na VC</flatTier>
+        </u>
+        <u speaker="INV" id="3d95b02d-9ff1-4f31-8057-16d9f3513d9b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">緊</com>
+                    <com type="blob">le01.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="122510.0" duration="998.0" unitType="ms"/>
+            <flatTier tierName="ort">kin2 le0.</flatTier>
+            <flatTier tierName="cod">VH Di/T</flatTier>
+        </u>
+        <u speaker="CHI" id="937efaf8-af61-4067-97e8-ab5f155cb721" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">媽媽</com>
+                    <com type="blob">欲</com>
+                    <com type="blob">包.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="122893.0" duration="1127.0" unitType="ms"/>
+            <flatTier tierName="ort">ma9ma9 beh4 pau1.</flatTier>
+            <flatTier tierName="ton">33 55 55 55</flatTier>
+            <flatTier tierName="pho">mã mã be pa</flatTier>
+            <flatTier tierName="cod">Na D VC</flatTier>
+        </u>
+        <u speaker="INV" id="de177447-1638-4fdc-ac26-9ecc38357be5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">包</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="124223.0" duration="528.0" unitType="ms"/>
+            <flatTier tierName="ort">pau1 sann2?</flatTier>
+            <flatTier tierName="cod">VC Nh</flatTier>
+        </u>
+        <u speaker="SIS" id="e123353c-1a4b-467e-b474-7e15f708c191" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">包</com>
+                    <com type="blob">+...</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="125901.0" duration="685.0" unitType="ms"/>
+            <flatTier tierName="ort">pau1 +...</flatTier>
+            <flatTier tierName="cod">VC</flatTier>
+        </u>
+        <u speaker="INV" id="223ce7fd-f4d8-4ded-a458-a1e4b28f51f4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">包</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="126703.0" duration="626.0" unitType="ms"/>
+            <flatTier tierName="ort">pau1 sann2?</flatTier>
+            <flatTier tierName="cod">VC Nh</flatTier>
+        </u>
+        <u speaker="CHI" id="fb5db3c8-2129-4912-b365-af6d589fb9af" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">包</com>
+                    <com type="blob">肉粽.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="127904.0" duration="1585.0" unitType="ms"/>
+            <flatTier tierName="ort">pau1 bah4cang3.</flatTier>
+            <flatTier tierName="ton">33 53 22</flatTier>
+            <flatTier tierName="pho">bau ba taŋ</flatTier>
+            <flatTier tierName="cod">VC Na</flatTier>
+        </u>
+        <u speaker="INV" id="00b0a348-4c77-4e46-8603-c2c8d5e606a8" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">包</com>
+                    <com type="blob">肉粽</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="129465.0" duration="912.0" unitType="ms"/>
+            <flatTier tierName="ort">pau1 bah4cang3 oo0.</flatTier>
+            <flatTier tierName="cod">VC Na T</flatTier>
+        </u>
+        <comment type="Generic">Track number is D2-59</comment>
+        <u speaker="INV" id="ffa385cc-6665-4a9a-861a-276e794834a1" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">啥物貨</com>
+                    <com type="blob">a02?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="130876.01" duration="852.9922" unitType="ms"/>
+            <flatTier tierName="ort">sann2mih8hue3 a0?</flatTier>
+            <flatTier tierName="cod">Nh T</flatTier>
+        </u>
+        <u speaker="CHI" id="db9c94a5-fd06-4032-8367-7c6557f21061" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">姊姊,</com>
+                    <com type="blob">這1</com>
+                    <com type="blob">芎蕉</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="131747.0" duration="2357.0" unitType="ms"/>
+            <flatTier tierName="ort">ce9ce9, ce1 kin1cio1 la0.</flatTier>
+            <flatTier tierName="ton">33 55 55 33 55 32</flatTier>
+            <flatTier tierName="pho">te te tie kim tɕʔ la</flatTier>
+            <flatTier tierName="cod">Na Nep Na T</flatTier>
+        </u>
+        <u speaker="INV" id="697a9994-9bb2-4dfc-bd4c-a3777f28fe7d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">頭前</com>
+                    <com type="blob">講</com>
+                    <com type="blob">啥?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="134490.0" duration="674.0" unitType="ms"/>
+            <flatTier tierName="ort">thau5cing5 kong2 sann2?</flatTier>
+            <flatTier tierName="cod">Ncd VE Nh</flatTier>
+        </u>
+        <u speaker="MOT" id="118cc00c-41b1-40b2-aec1-e2ab39297139" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">姊姊</com>
+                    <com type="blob">講</com>
+                    <com type="blob">這1</com>
+                    <com type="blob">芎蕉</com>
+                    <com type="blob">la0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="135428.0" duration="1690.0" unitType="ms"/>
+            <flatTier tierName="ort">ce9ce9 kong2 ce1 kin1cio1 la0.</flatTier>
+            <flatTier tierName="cod">Na VE Nep Na T</flatTier>
+        </u>
+        <u speaker="INV" id="f3958f92-0529-49f9-a599-27aa558c3090" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">oo0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="136038.0" duration="888.0" unitType="ms"/>
+            <flatTier tierName="ort">oo0.</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="MOT" id="4acb7e46-2b04-4a28-a1bc-8c13eb68502d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">www.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="137321.0" duration="615.0" unitType="ms"/>
+            <flatTier tierName="ort">www.</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+            <flatTier tierName="explanation">laughing</flatTier>
+        </u>
+        <u speaker="INV" id="c0c84f88-4451-4498-9a79-5490a78fc16e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">好</com>
+                    <com type="blob">a03.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="137939.0" duration="377.0" unitType="ms"/>
+            <flatTier tierName="ort">ho2 a0.</flatTier>
+            <flatTier tierName="cod">VH Di</flatTier>
+        </u>
+        <u speaker="INV" id="6c7774d8-b6f3-4094-a686-38dd7d487a19" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">彼1</com>
+                    <com type="blob">髒髒@s</com>
+                    <com type="blob">oo02.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="138184.0" duration="592.0" unitType="ms"/>
+            <flatTier tierName="ort">he1 zang1zang1@s oo0.</flatTier>
+            <flatTier tierName="cod">Nep VH T</flatTier>
+        </u>
+        <u speaker="CHI" id="a0ca001f-f45b-4092-9a1d-59868d7d6b37" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">流血</com>
+                    <com type="blob">a03.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="138335.0" duration="1161.0" unitType="ms"/>
+            <flatTier tierName="ort">lau5hueh4 a0.</flatTier>
+            <flatTier tierName="ton">33 32 22</flatTier>
+            <flatTier tierName="pho">tau hue ia</flatTier>
+            <flatTier tierName="cod">VA Di</flatTier>
+        </u>
+        <u speaker="INV" id="aeb2da71-08de-4b67-9f8d-e5744153dc80" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">hann0?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="139543.0" duration="644.0" unitType="ms"/>
+            <flatTier tierName="ort">hann0?</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="CHI" id="6946abd7-3cd6-49cb-9676-e72183ec9435" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">流血</com>
+                    <com type="blob">a03.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="140187.0" duration="1260.0" unitType="ms"/>
+            <flatTier tierName="ort">lau5hueh4 a0.</flatTier>
+            <flatTier tierName="ton">33 32 22</flatTier>
+            <flatTier tierName="pho">tau hue a</flatTier>
+            <flatTier tierName="cod">VA Di</flatTier>
+        </u>
+        <u speaker="INV" id="006e53e4-9852-4a36-afae-2e0870b46ad1" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">hm0,</com>
+                    <com type="blob">流血</com>
+                    <com type="blob">a03</com>
+                    <com type="blob">hoonn0?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="141426.0" duration="1747.0" unitType="ms"/>
+            <flatTier tierName="ort">hm0, lau5hueh4 a0 hoonn0?</flatTier>
+            <flatTier tierName="cod">I VA Di T</flatTier>
+        </u>
+        <u speaker="CHI" id="9344b61f-33c2-4e6d-9629-606929d136c6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">hm0.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="143324.0" duration="377.0" unitType="ms"/>
+            <flatTier tierName="ort">hm0.</flatTier>
+            <flatTier tierName="ton">??</flatTier>
+            <flatTier tierName="pho">??</flatTier>
+            <flatTier tierName="cod">I</flatTier>
+        </u>
+        <u speaker="INV" id="d2a3b5b6-6f19-4e1c-b037-8a5af4864536" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">a01</com>
+                    <com type="blob">你</com>
+                    <com type="blob">欲</com>
+                    <com type="blob">抹</com>
+                    <com type="blob">藥仔</com>
+                    <com type="blob">無3?</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="147819.0" duration="1219.0" unitType="ms"/>
+            <flatTier tierName="ort">a0 li2 beh4 buah4 ioh8a2 bo0?</flatTier>
+            <flatTier tierName="cod">Dk Nh D VC Na T</flatTier>
+        </u>
+        <u speaker="INV" id="3680a96c-402a-484a-9b28-3fd81a6b2f45" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">xxx.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="ort">xxx.</flatTier>
+            <flatTier tierName="cod">???</flatTier>
+        </u>
+        <u speaker="CHI" id="0824a6ac-2575-4e64-8aff-bc476e29ff49" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">猶未.</com>
+                    <com type="t">missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="151040.0" duration="778.0" unitType="ms"/>
+            <flatTier tierName="ort">a2be7.</flatTier>
+            <flatTier tierName="ton">44 33</flatTier>
+            <flatTier tierName="pho">a be</flatTier>
+            <flatTier tierName="cod">D</flatTier>
+        </u>
+    </transcript>
+</session>
