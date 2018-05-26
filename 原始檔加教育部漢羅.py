@@ -1,5 +1,6 @@
 from os import walk
 from os.path import join
+import re
 
 from bs4 import BeautifulSoup
 
@@ -17,10 +18,15 @@ def 處理(檔名):
     with open(檔名) as 檔案:
         soup = BeautifulSoup(檔案.read(), 'lxml')
         for u in soup.find_all('u'):
-            han = [
-                com.string
-                for com in u.find_all('com', attrs={'type': 'blob'})
-            ]
+            han = []
+            for com in u.find_all(
+                re.compile(r'^(com|w)'),  # attrs={'type': 'blob'}
+            ):
+                try:
+                    if com.name == 'w' or (com.name == 'com' and com['type'] == 'blob'):
+                        han.append(com.string)
+                except KeyError:
+                    pass
             im = u.find('flattier', attrs={'tiername': 'ort'})
             susing = u.find('flattier', attrs={'tiername': 'cod'})
             print(u)
