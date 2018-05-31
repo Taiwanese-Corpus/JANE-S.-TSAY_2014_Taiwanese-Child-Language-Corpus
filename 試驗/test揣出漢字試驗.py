@@ -44,7 +44,7 @@ class 揣出漢字試驗(TestCase):
         </u>'''
 
     def test_漢字_w(self):
-        self.漢 = ['你','彼1','未使','揤2','oo02','<p type="PERIOD">.</p>']
+        self.漢 = ['你', '彼1', '未使', '揤2', 'oo02', '<p type="PERIOD">.</p>']
         self.資料 = '''
         <u speaker="INV" id="3492e6a6-2c17-4318-8698-5aa30230092e" excludeFromSearches="false">
             <orthography>
@@ -123,8 +123,7 @@ class 揣出漢字試驗(TestCase):
         </u>'''
 
     def test_漢字_空的w(self):
-        self.fail()
-        self.漢 = 'xx'
+        self.漢 = ['畫', '一1', '个', '門', 'a02', '<p type="PERIOD">.</p>', ]
         self.資料 = '''
         <u speaker="INV" id="1b7214eb-5b56-4cbf-acaf-39f4563191a7" excludeFromSearches="false">
             <orthography>
@@ -202,8 +201,11 @@ class 揣出漢字試驗(TestCase):
         </u>'''
 
     def test_漢字_w有com(self):
-        self.fail()
-        self.漢 = 'xx'
+        self.漢 = [
+            '好', '<p type="COMMA">,</p>',
+            '<p type="OPEN_BRACE">{</p>', '換', '爿', '<p type="CLOSE_BRACE">}</p>',
+            '換', '爿', '<p type="PERIOD">.</p>',
+        ]
         self.資料 = '''
         <u speaker="INV" id="4962c440-ff46-45c3-abe0-8689f56f0793" excludeFromSearches="false">
             <orthography>
@@ -272,9 +274,12 @@ class 揣出漢字試驗(TestCase):
             <flatTier tierName="ort">ho2 &lt;uann7 ping5&gt; [/] uann7 ping5.</flatTier>
             <flatTier tierName="cod">VH VC Ncd VC Ncd</flatTier>
         </u>'''
+
     def test_漢字_w同齊com(self):
-        self.fail()
-        self.漢 = 'xx'
+        self.漢 = [
+            '<p type="OPEN_BRACE">{</p>', '這1', '<p type="CLOSE_BRACE">}</p>',
+            '這1', '啥物', '<p type="QUESTION">?</p>',
+        ]
         self.資料 = '''
         <u speaker="INV" id="342fbdbf-ce69-4a94-899f-6a1c9c094070" excludeFromSearches="false">
             <orthography>
@@ -329,9 +334,13 @@ class 揣出漢字試驗(TestCase):
             <flatTier tierName="ort">ce1 [/] ce1 sann2mih8?</flatTier>
             <flatTier tierName="cod">Nep Nep Nep</flatTier>
         </u>'''
+
     def test_華語(self):
-        self.fail()
-        '''
+        self.漢 = [
+            '<com type="langs">single,zho</com>', '垃圾桶',
+            'oo02', '<p type="QUESTION">?</p>',
+        ]
+        self.資料 = '''
         <u speaker="INV" id="78577262-aa4a-4db3-aabd-754ef3f07d95" excludeFromSearches="false">
             <orthography>
                 <g>
