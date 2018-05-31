@@ -44,8 +44,7 @@ def 揣出漢羅詞性(u):
     try:
         im = u.find('flattier', attrs={'tiername': 'ort'}).string.split()
     except AttributeError:
-        print(u)
-        raise
+        im = None
     try:
         susing = u.find('flattier', attrs={'tiername': 'cod'}).string.split()
     except AttributeError:

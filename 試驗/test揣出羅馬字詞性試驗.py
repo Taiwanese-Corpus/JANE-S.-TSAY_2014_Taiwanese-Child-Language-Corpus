@@ -149,4 +149,39 @@ class 揣出羅馬字詞性試驗(TestCase):
 <flattier tiername="ort">&lt;li2 e0 sann1&gt; [&lt;] u7 kou3dai4@s oo0.</flattier>
 </u>'''
         _漢, _羅, 詞性 = 揣出漢羅詞性(BeautifulSoup(資料, 'lxml'))
-        self.assertEqual(詞性, None)
+        self.assertIsNone(詞性)
+
+    def test_無羅馬字(self):
+        tsuliau = '''
+        <u excludefromsearches="false" id="bc371f02-5bde-493a-b0bc-fd4b727e55c9" speaker="CHI">
+<orthography>
+<g>
+<com type="blob">豬豬@s</com>
+<com type="blob">足</com>
+<com type="blob">大箍</com>
+<com type="blob">e0.</com>
+<com type="t">missing CA terminator</com>
+</g>
+</orthography>
+<ipatier form="model">
+<pg>
+<w></w>
+<sb></sb>
+</pg>
+</ipatier>
+<ipatier form="actual">
+<pg>
+<w></w>
+<sb></sb>
+</pg>
+</ipatier>
+<alignment type="segmental">
+<ag length="0"></ag>
+</alignment>
+<segment duration="2055.0625" starttime="1031844.0" unittype="ms"></segment>
+<flattier tiername="ton">55 55 54 22 55 55</flattier>
+<flattier tiername="pho">tju u io tja ko e</flattier>
+<flattier tiername="cod">Na Dfa VH DE</flattier>
+</u>'''
+        _漢, 羅, _詞性 = 揣出漢羅詞性(BeautifulSoup(tsuliau, 'lxml'))
+        self.assertIsNone(羅)
