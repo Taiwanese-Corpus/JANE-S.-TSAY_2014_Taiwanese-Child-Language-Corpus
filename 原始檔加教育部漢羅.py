@@ -1,3 +1,4 @@
+import json
 from os import walk
 from os.path import join
 import re
@@ -6,19 +7,26 @@ from bs4 import BeautifulSoup
 
 
 def _main():
+    with open('hàn-lô.json', 'wt', encoding='utf-8') as tóngàn:
+        json.dump(
+            list(tsuântsáu()), tóngàn,
+            ensure_ascii=False, sort_keys=False, indent=2
+        )
+
+
+def tsuântsáu():
     for 所在, _資料夾陣列, 檔案陣列 in sorted(walk('Tsay')):
         for 檔案 in sorted(檔案陣列):
             if 檔案.endswith('.xml'):
                 檔名 = join(所在, 檔案)
-                處理(檔名)
-                break
+                yield from 處理(檔名)
 
 
 def 處理(檔名):
-    with open(檔名) as 檔案:
+    with open(檔名, encoding='utf-8') as 檔案:
         soup = BeautifulSoup(檔案.read(), 'lxml')
         for u in soup.find_all('u'):
-            揣出漢羅詞性(u)
+            yield (檔名, *揣出漢羅詞性(u))
 
 
 def 揣出漢羅詞性(u):
@@ -29,14 +37,12 @@ def 揣出漢羅詞性(u):
         try:
             if com.name == 'w' or (com.name == 'com' and com['type'] == 'blob'):
                 han.append(com.string)
-            elif com.name=='p' or (com.name == 'com' and com['type'] == 'langs'):
+            elif com.name == 'p' or (com.name == 'com' and com['type'] == 'langs'):
                 han.append(str(com))
         except KeyError:
             pass
     im = u.find('flattier', attrs={'tiername': 'ort'})
     susing = u.find('flattier', attrs={'tiername': 'cod'})
-    print(u)
-    print(han, im.string.split(), susing.string.split())
     return han, im.string.split(), susing.string.split()
 
 
