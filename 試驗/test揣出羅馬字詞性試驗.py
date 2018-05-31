@@ -114,3 +114,39 @@ class 揣出羅馬字詞性試驗(TestCase):
         </u>'''
         _漢, 羅, _詞性 = 揣出漢羅詞性(BeautifulSoup(資料, 'lxml'))
         self.assertEqual(羅, 'ho2 <uann7 ping5> [/] uann7 ping5.'.split())
+
+    def test_無詞性(self):
+        資料 = '''
+        <u excludefromsearches="false" id="ef092fc0-5b46-4123-a6bd-147d62c8b1f1" speaker="GRM">
+<orthography>
+<g>
+<com type="blob">&lt;你</com>
+<com type="blob">e0</com>
+<com type="blob">衫&gt;</com>
+<com type="blob">[&lt;]</com>
+<com type="blob">有</com>
+<com type="blob">口袋@s</com>
+<com type="blob">oo02.</com>
+<com type="t">missing CA terminator</com>
+</g>
+</orthography>
+<ipatier form="model">
+<pg>
+<w></w>
+<sb></sb>
+</pg>
+</ipatier>
+<ipatier form="actual">
+<pg>
+<w></w>
+<sb></sb>
+</pg>
+</ipatier>
+<alignment type="segmental">
+<ag length="0"></ag>
+</alignment>
+<segment duration="1245.0" starttime="1122464.0" unittype="ms"></segment>
+<flattier tiername="ort">&lt;li2 e0 sann1&gt; [&lt;] u7 kou3dai4@s oo0.</flattier>
+</u>'''
+        _漢, _羅, 詞性 = 揣出漢羅詞性(BeautifulSoup(資料, 'lxml'))
+        self.assertEqual(詞性, None)

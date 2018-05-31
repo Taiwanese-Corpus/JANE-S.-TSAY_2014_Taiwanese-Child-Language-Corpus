@@ -32,7 +32,7 @@ def 處理(檔名):
 def 揣出漢羅詞性(u):
     han = []
     for com in u.find('orthography').find_all(
-        re.compile(r'^((com)|w|p)'),  # attrs={'type': 'blob'}
+        re.compile(r'^((com)|w|p)'),
     ):
         try:
             if com.name == 'w' or (com.name == 'com' and com['type'] == 'blob'):
@@ -41,9 +41,17 @@ def 揣出漢羅詞性(u):
                 han.append(str(com))
         except KeyError:
             pass
-    im = u.find('flattier', attrs={'tiername': 'ort'})
-    susing = u.find('flattier', attrs={'tiername': 'cod'})
-    return han, im.string.split(), susing.string.split()
+    try:
+        im = u.find('flattier', attrs={'tiername': 'ort'}).string.split()
+    except AttributeError:
+        print(u)
+        raise
+    try:
+        susing = u.find('flattier', attrs={'tiername': 'cod'}).string.split()
+    except AttributeError:
+        susing = None
+
+    return han, im, susing
 
 
 if __name__ == '__main__':
