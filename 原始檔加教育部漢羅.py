@@ -23,12 +23,14 @@ def 處理(檔名):
 
 def 揣出漢羅詞性(u):
     han = []
-    for com in u.find_all(
-        re.compile(r'^(com|w)'),  # attrs={'type': 'blob'}
+    for com in u.find('orthography').find_all(
+        re.compile(r'^((com)|w|p)'),  # attrs={'type': 'blob'}
     ):
         try:
             if com.name == 'w' or (com.name == 'com' and com['type'] == 'blob'):
                 han.append(com.string)
+            elif com.name=='p' or (com.name == 'com' and com['type'] == 'langs'):
+                han.append(str(com))
         except KeyError:
             pass
     im = u.find('flattier', attrs={'tiername': 'ort'})
